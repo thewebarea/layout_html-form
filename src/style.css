@@ -1,1 +1,14 @@
 /* styles go here */
+
+.fieldsetElement {
+  /* padding: 10px; */
+  margin-bottom: 20px;
+}
+
+.oneRow {
+  margin-bottom: 10px;
+}
+
+.oneRow:last-of-type {
+  margin-bottom: unset;
+}
